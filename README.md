@@ -1,4 +1,3 @@
-# fake-job-prediction
 # Fake Job Prediction
 
 ## Project Overview
